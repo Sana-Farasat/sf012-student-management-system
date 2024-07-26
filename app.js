@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+//Shebang
 import inquirer from "inquirer";
 import chalk from "chalk";
 //Class,Objects,Methods,Attributes
